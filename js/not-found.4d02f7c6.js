@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkimvue"]=self["webpackChunkimvue"]||[]).push([[757],{46:function(n,u,e){e.r(u),e.d(u,{default:function(){return a}});var r=e(6768);const t=(0,r.Lk)("h1",null,"404 Not Found",-1),c=[t];function i(n,u){return(0,r.uX)(),(0,r.CE)("div",null,c)}var l=e(1241);const o={},s=(0,l.A)(o,[["render",i]]);var a=s}}]);
+//# sourceMappingURL=not-found.4d02f7c6.js.map
